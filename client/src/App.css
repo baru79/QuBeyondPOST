@@ -1,0 +1,17 @@
+.app {
+	display: grid;
+	min-height: 100vh;
+	text-align: center;
+	color: #ffe300;
+	background-color: black;
+	font-size: 40px;
+}
+
+.dataGrid {
+	display: flex;
+	flex-direction: column;
+	place-self: center;
+	width: 90%;
+	background-color: white;
+	min-height: 700px;
+}
